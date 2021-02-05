@@ -1,6 +1,6 @@
 name 'example_cookbook'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'eric'
+maintainer_email 'eric'
 license 'All Rights Reserved'
 description 'Installs/Configures example_cookbook'
 version '0.1.0'
